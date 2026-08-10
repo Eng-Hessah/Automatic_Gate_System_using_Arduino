@@ -8,3 +8,12 @@ This project presents an intelligent automated gate prototype powered by an Ardu
 * *Automated Control:* Smoothly opens and closes the gate via servo motor.
 * *Visual Feedback:* LED indicator turns on instantly when an object is detected.
 * *Customizable:* Easily adjustable distance and angle parameters in the code
+
+## Components Used
+
+* Arduino Uno
+* HC-SR04 Ultrasonic Sensor
+* SG90 Servo Motor
+* LED Light
+* Jumper Wires
+* Breadboard
