@@ -1,4 +1,4 @@
-<img width="1477" height="1065" alt="Automatic Gate Diagram Closed" src="https://github.com/user-attachments/assets/3286438f-17e4-489b-8f88-6b2c77d8e3ae" /># Automatic_Gate_System_using_Arduino
+# Automatic_Gate_System_using_Arduino
 
 ## Overview
 This project presents an intelligent automated gate prototype powered by an Arduino microcontroller. By integrating an HC-SR04 ultrasonic sensor with a servo motor mechanism, the system detects approaching objects in real-time, dynamically triggers the gate opening sequence, and includes an LED indicator for visual feedback
@@ -19,9 +19,16 @@ This project presents an intelligent automated gate prototype powered by an Ardu
 * Breadboard
 
 ## Circuit Diagram
+
 ### Gate Closed 
 <img width="1477" height="1065" alt="Automatic Gate Diagram Closed" src="https://github.com/user-attachments/assets/5ba1d627-e0b7-4571-804a-f35e8e458e36" />
 
 ### Gate Opened 
 <img width="1672" height="941" alt="Automatic Gate Diagram Opened" src="https://github.com/user-attachments/assets/a5b0fc5b-9f70-4883-bb59-ae975efe54da" />
 
+## Demo 
+
+https://github.com/user-attachments/assets/a75c57ab-24a9-4370-bf5a-51fc9e715421
+
+## Project Auther
+Hessah Safar Alharthi
