@@ -3,3 +3,8 @@
 ## Overview
 This project presents an intelligent automated gate prototype powered by an Arduino microcontroller. By integrating an HC-SR04 ultrasonic sensor with a servo motor mechanism, the system detects approaching objects in real-time, dynamically triggers the gate opening sequence, and includes an LED indicator for visual feedback
 
+## Project Features
+* *Real-Time Detection:* Accurately measures distance using the ultrasonic sensor.
+* *Automated Control:* Smoothly opens and closes the gate via servo motor.
+* *Visual Feedback:* LED indicator turns on instantly when an object is detected.
+* *Customizable:* Easily adjustable distance and angle parameters in the code
